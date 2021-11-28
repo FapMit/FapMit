@@ -20,6 +20,5 @@ while True:
         k = (-1)/(4*(n**2)+6*n+2)
         sum = k*sum
         function += sum
-        n += 1
-        
+        n += 1        
 print('Значение правой части уравнения: ', function)        
